@@ -3,7 +3,8 @@
 
 ## Descripción
 
-Adva Skin es una aplicación para Windows 7/10/11 que te permite gestionar y aplicar aspectos (skins) personalizados en Minecraft Bedrock Edition. Con esta aplicación, puedes buscar, descargar y aplicar skins de forma sencilla y rápida.
+Adva Skin es una aplicación para Windows disponible en 7/10/11 y en solamente en Español (por ahora)
+que te permite gestionar y aplicar skins personalizadas en Minecraft Bedrock Edition. Con esta aplicación, puedes buscar, descargar y aplicar skins de forma sencilla y rápida.
 
 ## Características
 
@@ -15,15 +16,15 @@ Adva Skin es una aplicación para Windows 7/10/11 que te permite gestionar y apl
 ## Skins
 ![Capture 1](https://github.com/s1i4/adva-skin/blob/main/Application%20screenshots/Capture.png)
 
+## Capas
+**Pronto** 👀
+
 ## Historial
 ![Capture 2](https://github.com/s1i4/adva-skin/blob/main/Application%20screenshots/Capture2.png)
 ![Capture 3](https://github.com/s1i4/adva-skin/blob/main/Application%20screenshots/Capture3.png)
 
 ## Creditos
 ![Capture 4](https://github.com/s1i4/adva-skin/blob/main/Application%20screenshots/Capture4.png)
-
-## Capas
-**COMING SOON** - PRONTO
 
 ## Instalación
 
@@ -41,12 +42,16 @@ Adva Skin es una aplicación para Windows 7/10/11 que te permite gestionar y apl
 ## Contribución & Contacto
 
 Si quieres contribuir al desarrollo de esta aplicación o contactarme
-**ttsaidworkcinfo@gmail.com**
+**ttsaidworkcinfo@gmail.com**.
 
 ## Créditos
 
-Desarrollado por: [@s1i4](https://github.com/s1i4)
+Desarrollado por: [@s1i4](https://github.com/s1i4).
 
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+
+## Actualizaciones
+
+Se haran actualizaciones y las podras descargar desde la aplicación en el apartado de (Acerca de).
