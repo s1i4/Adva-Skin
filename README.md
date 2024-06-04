@@ -13,6 +13,7 @@ Adva Skin es una aplicación para Windows 10/11que te permite gestionar y aplica
 -   **Historial:** Mantiene un historial de tus búsquedas y descargas para un fácil acceso.
 
 ## Capturas de Pantalla
+![Capture Menu](https://github.com/s1i4/adva-skin/blob/main/Capture.png)
 
 ## Instalación
 
