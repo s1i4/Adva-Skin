@@ -30,7 +30,7 @@ Adva Skin es una aplicación para Windows 7/10/11 que te permite gestionar y apl
 1.  Clona el repositorio en tu máquina local.
 2.  Abre el proyecto en tu editor de código preferido.
 3.  Ejecuta `git clone https://github.com/s1i4/adva-skin/blob/main/AdvaSkin-Release.zip` para instalar.
-4.  Ejecuta la aplicación en Windows 10/11.
+4.  Ejecuta la aplicación en Windows 7/10/11.
 
 ## Uso
 
