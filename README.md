@@ -26,15 +26,14 @@ que te permite gestionar y aplicar skins personalizadas en Minecraft Bedrock Edi
 ## Creditos
 ![Capture 4](https://github.com/s1i4/adva-skin/blob/main/Application%20screenshots/Capture4.png)
 
-## Instalación
+## Instalación 
 
+[Instalar](https://github.com/s1i4/adva-skin/releases/download/v1.4.1/AdvaSkin_setup.msix)
+# Terminal
 1.  Clona el repositorio en tu máquina local.
 2.  Abre el proyecto en tu editor de código preferido.
 3.  Ejecuta `git clone https://github.com/s1i4/adva-skin/releases/download/v1.4.1/AdvaSkin_setup.msix` para instalar.
 4.  Ejecuta la aplicación en Windows 7/10/11.
-
-O tambien:
-[Instalar desde aqui](https://github.com/s1i4/adva-skin/releases/download/v1.4.1/AdvaSkin_setup.msix)
 
 ## Uso
 
@@ -45,7 +44,7 @@ O tambien:
 ## Contribución & Contacto
 
 Si quieres contribuir al desarrollo de esta aplicación o contactarme
-**ttsaidworkcinfo@gmail.com**.
+**s1i4emailcontact@gmail.com**.
 
 ## Créditos
 
