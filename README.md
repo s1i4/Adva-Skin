@@ -13,6 +13,9 @@ que te permite gestionar y aplicar skins personalizadas en Minecraft Bedrock Edi
 -   **Aplicación de Skins:** Aplica los skins descargados en tu juego Minecraft Bedrock Edition.
 -   **Historial:** Mantiene un historial de tus búsquedas y descargas para un fácil acceso.
 
+## Video tutorial
+[Youtube video](https://www.youtube.com/watch?v=SP0BVJaP5-U)
+
 ## Skins
 ![Capture 1](https://github.com/s1i4/adva-skin/blob/main/Application%20screenshots/Capture.png)
 
