@@ -16,22 +16,23 @@ que te permite gestionar y aplicar skins personalizadas en Minecraft Bedrock Edi
 ## Video tutorial [Link](https://www.youtube.com/watch?v=SP0BVJaP5-U)
 [![Alt text](https://img.youtube.com/vi/SP0BVJaP5-U/0.jpg)](https://www.youtube.com/watch?v=SP0BVJaP5-U)
 
-## Skins
+## Skins Pagina
 ![Capture 1](https://github.com/s1i4/adva-skin/blob/main/Application%20screenshots/Capture.png)
 
-## Capas
+## Capas Pagina
 **Pronto** 👀
 
-## Historial
+## Historial Pagina
 ![Capture 2](https://github.com/s1i4/adva-skin/blob/main/Application%20screenshots/Capture2.png)
 ![Capture 3](https://github.com/s1i4/adva-skin/blob/main/Application%20screenshots/Capture3.png)
 
-## Creditos
+## Acerca de Pagina
 ![Capture 4](https://github.com/s1i4/adva-skin/blob/main/Application%20screenshots/Capture4.png)
 
-## Instalación 
 
+## Instalación 
 [Instalar](https://github.com/s1i4/adva-skin/releases/download/v1.4.1/AdvaSkin_setup.msix)
+
 # Terminal
 1.  Clona el repositorio en tu máquina local.
 2.  Abre el proyecto en tu editor de código preferido.
@@ -39,7 +40,6 @@ que te permite gestionar y aplicar skins personalizadas en Minecraft Bedrock Edi
 4.  Ejecuta la aplicación en Windows 7/10/11.
 
 ## Uso
-
 -   **Buscando Skins:** Ingresa el nombre de usuario de Minecraft en el campo de búsqueda y presiona el botón "Buscar".
 -   **Descargando Skins:** Haz clic en el botón de descarga junto al skin que deseas descargar.
 -   **Aplicando Skins:** Haz clic en el botón "Usar aspecto" para aplicar un skin descargado en tu juego Minecraft.
